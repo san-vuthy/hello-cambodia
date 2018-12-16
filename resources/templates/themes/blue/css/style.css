@@ -1,0 +1,17 @@
+.ui.secondary.menu {
+  background: 0 0;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 0;
+  box-shadow: none;
+  background-color: #2980b9 !important;
+  padding: 15px !important;
+  color: #fff !important;
+}
+.ui.secondary.menu .link.item,
+.ui.secondary.menu a.item {
+  opacity: 0.8;
+  -webkit-transition: none;
+  transition: none;
+  color: #fff;
+  padding: 10px 25px;
+}
